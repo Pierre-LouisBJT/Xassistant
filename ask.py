@@ -39,5 +39,4 @@ def ask(query, max_lenght=500):
         result = pdf_qa({"question": query, "chat_history": ""})
         return(result["answer"])
 
-### Dev
-query = " Give me a python hello world"
+

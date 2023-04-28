@@ -2,3 +2,4 @@
 test.py
 data/Brochure_Cycle_ingenieur_polytechnicien.pdf
 .DS_Store
+__pycache__/
